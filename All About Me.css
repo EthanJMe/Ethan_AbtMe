@@ -1,0 +1,87 @@
+body {
+    background-color: #64A591;
+}
+
+a{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-decoration: none;
+
+color: #A10030;
+
+}
+table.top{
+    background-color:  #25F54E;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+}
+td.menu {
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 33.333%;
+    text-align: center;
+}
+img.home{
+    width: 500px;
+    margin: 10px;
+}
+p.home_blurb{
+margin-left: 20%;
+position: absolute;
+width: 1006px;
+height: 223px;
+left: 312px;
+top: 109px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 60px;
+
+}
+table.PerInt {
+margin-top: 5%;
+margin-left: 25%;
+margin-bottom: 4%;
+
+}
+img.PerInt{
+    height: 446px;
+    width: 456px;
+}
+td.PerInt{
+    height: 400px;
+    width: 500px;
+}
+caption {
+    text-align: center;
+    caption-side: bottom;
+    margin-right: 5%;
+}
+p.HandF_Blurb {
+    margin-left: 25%;
+    position: absolute;
+width: 638px;
+height: 63px;
+left: 177px;
+top: 176px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+}
+table.HandF {
+    margin-top: 10%;
+    margin-left: 15%;
+}
